@@ -10,13 +10,15 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("MliybsLibrary")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Mlinetles")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyDescriptionAttribute("Mliybs的依赖库")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("MliybsLibrary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MliybsLibrary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
+[assembly: System.Reflection.AssemblyMetadataAttribute("RepositoryUrl", "https://github.com/Mliybs/MliybsLibrary")]
 
 // 由 MSBuild WriteCodeFragment 类生成。
 
